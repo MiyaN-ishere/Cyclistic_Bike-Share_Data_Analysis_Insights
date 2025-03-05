@@ -2,7 +2,7 @@
 
 ## Repository Structure
 - **EDA/** - Exploratory Data Analysis with Python  
-- **data_cleaning/** - Data Cleaning Scripts  
+- **data_cleaning/** - Data Cleaning with Python  
 - **data_visualization/** - Power BI Dashboard and Report  
 - **README.md** - Project Documentation  
 
